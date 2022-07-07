@@ -17,11 +17,6 @@ website:
     left: 
       - text: "Home"
         file: index.qmd
-  sidebar: 
-    style: floating
-    search: true
-    contents: 
-      - index.qmd
 format:
   html:
     theme: superhero
