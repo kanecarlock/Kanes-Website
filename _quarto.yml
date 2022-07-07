@@ -7,7 +7,7 @@ website:
   twitter-card: true
   creator: "@kanecarlock"
   navbar:
-    background: black
+    background: brown
     search: true
     right:
       - icon: github
