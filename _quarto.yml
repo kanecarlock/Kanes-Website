@@ -2,16 +2,26 @@ project:
   type: website
 
 website:
-  title: "Kanes-Website"
+  title: Kane Carlock
+  site-url: https://www.kanecarlock.netlify.app
   twitter-card: true
   creator: "@kanecarlock"
   navbar:
+    background: black
+    search: true
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/kanecarlock
       - icon: twitter
         href: https://twitter.com/kanecarlock
+    left: 
+      - text: "Home"
+        file: index.qmd
+  sidebar: 
+    style: floating
+    search: true
+    contents: 
+      - index.qmd
 format:
   html:
     theme: superhero

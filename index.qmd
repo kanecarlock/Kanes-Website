@@ -1,12 +1,7 @@
 ---
-title: "Kanes-Website"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "about"
+about: 
+  template: jolla
 ---
+
+Kane Carlock is a Ph.D. Candidate in School Psychology at Indiana University-Bloomington. His research interests focus on improving the accessibility and quality of youth mental health services across systems of care. His work is guided by frameworks from public health (i.e., MTSS; Stepped Care) and implementation science (i.e., EPIS; NPT). Additionally, he is interested in how meta-science and reproducibility can improve the the translation of research into practice. Currently, he is the assistant director for the Child Assessment and Intervention Clinic (CAIC) in the IU School of Education.
