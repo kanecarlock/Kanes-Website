@@ -1,6 +1,9 @@
 ---
 title: "about"
 image: twitterpic.jpg
+twitter-card:
+  creator: "@kanecarlock"
+  image: twitterpic.jpg
 about: 
   template: jolla
 
