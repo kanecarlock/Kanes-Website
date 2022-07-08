@@ -5,7 +5,7 @@ website:
   title: Kane Carlock
   site-url: https://www.kanecarlock.netlify.app
   twitter-card:
-    image: "https://www.github.com/kanecarlock/Kanes-Website/blob/master/twitterpic.jpg"
+    image: "https://github.com/kanecarlock/Kanes-Website/blob/e2e47c8f8aaa2b0be9cfc6df2d18fbdad048d6a5/twitterpic.jpg"
     site: "https://www.kanecarlock.netlify.app"
     creator: "@kanecarlock"
   navbar:
