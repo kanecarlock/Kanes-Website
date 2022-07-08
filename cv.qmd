@@ -6,7 +6,6 @@ format: html
 ---
 
 ## My CV
-format: html
-https://docs.google.com/document/d/e/2PACX-1vRmy90txsct2s2BEsMiyPHlRuc_KgftKh4uMml4-RAclQu3R3GmSfQKM8GfZKxTaHXtSHmrGGXnP4ZA/pub?embed
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRmy90txsct2s2BEsMiyPHlRuc_KgftKh4uMml4-RAclQu3R3GmSfQKM8GfZKxTaHXtSHmrGGXnP4ZA/pub?embedded=true"></iframe>
 
 
