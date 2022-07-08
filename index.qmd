@@ -1,8 +1,6 @@
 ---
 title: "about"
 image: twitterpic.jpg
-twitter-card: 
-  image: "https://github.com/kanecarlock/Kanes-Website/blob/e2e47c8f8aaa2b0be9cfc6df2d18fbdad048d6a5/twitterpic.jpg"
 about: 
   template: jolla
 
