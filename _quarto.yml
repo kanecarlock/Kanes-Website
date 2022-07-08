@@ -19,6 +19,10 @@ website:
         file: index.qmd
       - text: "CV"
         file: cv.qmd
+      - text: "Publications"
+        file: publications.qmd
+      - text: "Resources"
+        file: resources.qmd
 format:
   html:
     theme: superhero
