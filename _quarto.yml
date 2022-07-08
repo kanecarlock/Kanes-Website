@@ -6,6 +6,8 @@ website:
   site-url: https://www.kanecarlock.netlify.app
   twitter-card:
     creator: "@kanecarlock"
+    image: twitterpic.jpg
+    site: "https://www.kanecarlock.netlify.app"
   navbar:
     background: brown
     search: true
