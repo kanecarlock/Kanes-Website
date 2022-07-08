@@ -4,8 +4,9 @@ project:
 website:
   title: Kane Carlock
   site-url: https://www.kanecarlock.netlify.app
-  twitter-card: true
-  creator: "@kanecarlock"
+  twitter-card:
+    creator: "@kanecarlock"
+    card-style: summary_large_image
   navbar:
     background: brown
     search: true
