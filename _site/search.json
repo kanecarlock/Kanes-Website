@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "about",
     "section": "",
-    "text": "Kane Carlock is a Ph.D. Candidate in School Psychology at Indiana University-Bloomington. His research interests focus on improving the accessibility and quality of youth mental health services across systems of care. This work is guided by frameworks from public health (i.e., MTSS; Stepped Care) and implementation science (i.e., EPIS; NPT). Additionally, he is interested in how meta-science and reproducibility can improve the the translation of research into practice. Currently, he is the assistant director for the Child Assessment and Intervention Clinic (CAIC) in the IU School of Education."
+    "text": "Kane Carlock is a Ph.D. Candidate in School Psychology at Indiana University-Bloomington. Kane is a member of the School-Based Mental Health Research and Training Initiative [SBMH-RTI] (https://www.sbmhinitiative.com/) lead by Dr. Heather Ormiston. His research interests focus on improving the accessibility and quality of youth mental health services across systems of care. This work is guided by frameworks from public health (i.e., MTSS; Stepped Care) and implementation science (i.e., EPIS; NPT). Additionally, he is interested in how meta-science and reproducibility can improve the the translation of research into practice. Currently, he is the assistant director for the Child Assessment and Intervention Clinic (CAIC) in the IU School of Education."
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "cv",
+    "section": "",
+    "text": "format: html https://docs.google.com/document/d/e/2PACX-1vRmy90txsct2s2BEsMiyPHlRuc_KgftKh4uMml4-RAclQu3R3GmSfQKM8GfZKxTaHXtSHmrGGXnP4ZA/pub?embed"
   }
 ]
