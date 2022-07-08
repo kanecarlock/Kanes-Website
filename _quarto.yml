@@ -29,6 +29,7 @@ website:
         file: publications.qmd
       - text: "Resources"
         file: resources.qmd
+  google-analytics: G-Y0NH6JS2X2
 format:
   html:
     theme: superhero
