@@ -2,10 +2,19 @@
 title: "about"
 image: twitterpic.jpg
 about: 
-  template: jolla
+  template: trestles
+  image-shape: round
 ---
 
-Kane Carlock is a Ph.D. candidate in School Psychology at Indiana University-Bloomington. Kane is a member of the School-Based Mental Health Research and Training Initiative [SBMH-RTI](https://www.sbmhinitiative.com) lead by Dr. Heather Ormiston. Currently, he is also the assistant director for the Child Assessment and Intervention Clinic (CAIC) in the IU School of Education.
+I am a Ph.D. candidate in School Psychology at Indiana University-Bloomington and a member of the School-Based Mental Health Research and Training Initiative [SBMH-RTI](https://www.sbmhinitiative.com), lead by Dr. Heather Ormiston. I am also the assistant director for the Child Assessment and Intervention Clinic (CAIC) in the IU School of Education.
 
-Kane's research is guided by frameworks from public health (MTSS; Collaborative Care) and implementation science (EPIS; NPT). His research focuses on the advancing the integration youth mental health services in school, medical, and primary care settings. Specifically he is interested in 1) Investigating contextual factors that influence how professionals and organizations adopt evidence-based mental health services and de-implement low value practices, 2) Identifying inequities to mental health service quality and access, and 3) Examining how meta-science and reproducibility can improve the the translation of research into practice. His methodological interests include quantitative methods using the R statistical software, and mixed-methods research.
+My research is broadly focused on the delivery of youth mental health services. This work is guided by frameworks from public health (MTSS; Collaborative Care) and implementation science (EPIS; NPT). Specific interest include: 
+
+1) Advancing the integration youth mental health services in school, hospital, and primary care settings.
+
+2) Investigating contextual factors that influence how professionals and organizations implement evidence-based mental health services while de-implementing low value practices. 
+
+3) Identifying inequities to access to mental health services. 
+
+My methodological interests include quantitative methods using the R statistical software, mixed-methods, and improving the translation of research into practice through meta-science and reproducibility.
 
