@@ -6,9 +6,9 @@ about:
   image-shape: round
 ---
 
-I am a Ph.D. candidate in School Psychology at Indiana University-Bloomington and a member of the School-Based Mental Health Research and Training Initiative [SBMH-RTI](https://www.sbmhinitiative.com), lead by Dr. Heather Ormiston. More information can be found on my [CV](https://www.kanecarlock.com/cv.html) and on twitter at [@kanecarlock](https://twitter.com/kanecarlock). 
+I am a Ph.D. candidate in School Psychology at Indiana University-Bloomington and a member of the School-Based Mental Health Research and Training Initiative [SBMH-RTI](https://www.sbmhinitiative.com), lead by Dr. Heather Ormiston.     
 
-My research interests are broadly focused on the delivery of youth mental health services. This work is guided by frameworks from public health ([MTSS; Collaborative Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383210/)) and implementation science ([EPIS](https://episframework.com/); [NPT](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-022-01191-x)). Specific interest include: 
+My research and clinical interests are broadly focused on the delivery of youth mental health services. This work is guided by frameworks from public health ([MTSS; Collaborative Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383210/)) and implementation science ([EPIS](https://episframework.com/); [NPT](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-022-01191-x)). Specific reserach interest include: 
 
 1) Advancing the integration youth mental health services in school, hospital, and primary care settings.
 2) Investigating contextual factors that influence how professionals and organizations implement evidence-based mental health services while de-implementing low value practices. 
@@ -16,3 +16,4 @@ My research interests are broadly focused on the delivery of youth mental health
 
 My methodological interests include quantitative methods using the R statistical software, mixed-methods, and improving the translation of research into practice through meta-science and reproducibility.
 
+More information can be found on my [CV](https://www.kanecarlock.com/cv.html) and on Twitter at [@kanecarlock](https://twitter.com/kanecarlock). I can be contacted at [kanecarlock6507@gmail.com](kanecalrock6507@gmail.com).

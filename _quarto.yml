@@ -13,10 +13,10 @@ website:
     search: true
     right:
       - icon: github
-        text: github
+        text: Github
         href: https://github.com/kanecarlock
       - icon: twitter
-        text: twitter
+        text: Twitter
         href: https://twitter.com/kanecarlock
       - icon: orcid_id
         text: ORCID
