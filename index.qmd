@@ -8,7 +8,7 @@ about:
 
 I am a Ph.D. candidate in School Psychology at Indiana University-Bloomington and a member of the School-Based Mental Health Research and Training Initiative [SBMH-RTI](https://www.sbmhinitiative.com), lead by Dr. Heather Ormiston. I am also the assistant director for the Child Assessment and Intervention Clinic (CAIC) in the IU School of Education.
 
-My research is broadly focused on the delivery of youth mental health services. This work is guided by frameworks from public health (MTSS; Collaborative Care) and implementation science (EPIS; NPT). Specific interest include: 
+My research is broadly focused on the delivery of youth mental health services. This work is guided by frameworks from public health ([MTSS; Collaborative Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383210/)) and implementation science ([EPIS](https://episframework.com/); [NPT](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-022-01191-x)). Specific interest include: 
 
 1) Advancing the integration youth mental health services in school, hospital, and primary care settings.
 
