@@ -8,7 +8,7 @@ about:
 
 I am a 4th-year Ph.D. candidate in School Psychology at Indiana University-Bloomington and a member of the School-Based Mental Health Research and Training Initiative [SBMH-RTI](https://www.sbmhinitiative.com), lead by Dr. Heather Ormiston.     
 
-My research and clinical interests are broadly focused on the delivery of youth mental health services. This work is guided by frameworks from public health ([MTSS; Collaborative Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383210/)) and implementation science ([EPIS](https://episframework.com/); [NPT](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-022-01191-x)). Specific reserach interest include: 
+My research and clinical interests are broadly focused on the delivery of youth mental health services. This work is guided by frameworks from public health ([MTSS; Collaborative Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383210/)) and implementation science ([EPIS](https://episframework.com/); [NPT](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-022-01191-x)). Specific research interest include: 
 
 1) Advancing the integration youth mental health services in school, hospital, and primary care settings.
 2) Investigating contextual factors that influence how professionals and organizations implement evidence-based mental health services while de-implementing low value practices. 
