@@ -3,4 +3,7 @@ title: "Learning R"
 editor: visual
 ---
 
+Below is a list of resources I've gathered for learning R. Here is a link to the doc: [Learning R](https://docs.google.com/document/d/1ni0yusxh6fhq_FVBQM0i0nePmxjcMjbrC10IbTJ1mVI/edit?usp=sharing)
+
+
 <iframe width="100%" height="750" src="https://docs.google.com/document/d/e/2PACX-1vR1DWQYbSMb5mb_T8rfyDRrVXtfqMY-9Z9O7EPPxm_5Ms7gvN0llcFrbeBPE6YLPxXQIB4K-l73pJBV/pub?embedded=true"></iframe>
