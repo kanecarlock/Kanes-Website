@@ -31,7 +31,7 @@ website:
         file: cv.qmd
       - text: "Publications"
         file: publications.qmd
-      - text: "Rstats Resources"
+      - text: "Learning R"
         file: Learning R.qmd
   google-analytics: G-Y0NH6JS2X2
 format:
