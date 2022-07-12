@@ -1,0 +1,8 @@
+---
+title: "Learning Stats"
+editor: visual
+---
+
+This is a list of resources that have been helpful for me as a grad student when learning statistics. Here is a link to the doc: [Learning Stats](https://docs.google.com/document/d/1lIQfix3oLQNg1syFUjm8maTyGCdv9NLqqfh2Vw0lodk/edit?usp=sharing)
+
+<iframe width="100%" height="750" src="https://docs.google.com/document/d/e/2PACX-1vSgXzrJy43k_LnoVqme6iuEYSPZsNT5Jvtgo3oCYAk79zPUOi1bFNf9wp4UPNI4VJoLABDFLA5WXKtQ/pub?embedded=true"></iframe>

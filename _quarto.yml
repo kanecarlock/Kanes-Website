@@ -33,6 +33,10 @@ website:
         file: publications.qmd
       - text: "Learning R"
         file: Learning R.qmd
+      - text: "Learning Stats"
+        file: Learning Stats.qmd
+      - text: "Learning Implementation Science"
+        file: Learning Implementation Science.qmd
   google-analytics: G-Y0NH6JS2X2
 format:
   html:

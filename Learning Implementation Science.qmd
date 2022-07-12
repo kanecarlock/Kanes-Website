@@ -1,0 +1,8 @@
+---
+title: "Learning Implementation Science"
+editor: visual
+---
+
+Below is a list of resources that are useful for understanding and using implementation science. Resources are provided for both researchers and practitioners. Here is a link to the document: [Implementation Science Resources](https://docs.google.com/document/d/12bUALCptgxkQDpP636ETk4-l_nNBJ-2ndBC1gwq0Fzs/edit?usp=sharing)
+
+<iframe width="100%" height="750" src="https://docs.google.com/document/d/e/2PACX-1vQsOTCX-uPtR8KfYGVNbZHzz-uBhAHd3i-Taaz41AJKmPbGFLC2MRHyNbyFwSjfKhDz_equw8X6kVXr/pub?embedded=true"></iframe>
