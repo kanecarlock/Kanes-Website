@@ -8,9 +8,7 @@ about:
 
 I am a 4th-year Ph.D. candidate in School Psychology at Indiana University-Bloomington and a member of the School-Based Mental Health Research and Training Initiative [SBMH-RTI](https://www.sbmhinitiative.com), led by Dr. Heather Ormiston.     
 
-My research and clinical interests are focused on the delivery and integration of youth mental health services in school, primary care, and hospital settings. This work is guided by frameworks from public health ([MTSS; Collaborative Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383210/)) and implementation science ([EPIS](https://episframework.com/); [NPT](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-022-01191-x)). 
-
-My methodological interests include quantitative methods using the [R statistical software](https://www.kanecarlock.com/learning%20r), mixed-methods, and improving the translation of research into practice through meta-science and reproducibility.
+My research and clinical interests are focused on the delivery and integration of youth mental health services in school, primary care, and hospital settings. This work is guided by frameworks from public health ([MTSS; Collaborative Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383210/)) and implementation science ([EPIS](https://episframework.com/); [NPT](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-022-01191-x)). My methodological interests include quantitative methods using the [R statistical software](https://www.kanecarlock.com/learning%20r), mixed-methods, and improving the translation of research into practice through meta-science and reproducibility.
 
 Part of my learning process as a Ph.D. student has been gathering useful learning resources. I have compiled these resources into learning lists for [Learning R](https://www.kanecarlock.com/learning%20r), [Learning Stats](https://www.kanecarlock.com/learning%20stats), and [Learning Implementation Science](https://www.kanecarlock.com/learning%20implementation%20science). Feel free use these resources for your own learning.
 
