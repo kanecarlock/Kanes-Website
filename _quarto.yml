@@ -29,8 +29,6 @@ website:
         file: index.qmd
       - text: "My CV"
         file: My CV.qmd
-      - text: "Publications"
-        file: publications.qmd
       - text: "Learning R"
         file: Learning R.qmd
       - text: "Learning Stats"
