@@ -40,5 +40,19 @@
     "title": "Learning R",
     "section": "",
     "text": "Below is a list of resources I’ve gathered for learning R. Here is a link to the doc: Learning R"
+  },
+  {
+    "objectID": "Learning Stats.html",
+    "href": "Learning Stats.html",
+    "title": "Learning Stats",
+    "section": "",
+    "text": "This is a list of resources that have been helpful for me as a grad student when learning statistics. Here is a link to the doc: Learning Stats"
+  },
+  {
+    "objectID": "Learning Implementation Science.html",
+    "href": "Learning Implementation Science.html",
+    "title": "Learning Implementation Science",
+    "section": "",
+    "text": "Below is a list of resources that are useful for understanding and using implementation science. Resources are provided for both researchers and practitioners. Here is a link to the document: Implementation Science Resources"
   }
 ]
