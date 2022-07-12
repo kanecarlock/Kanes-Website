@@ -12,4 +12,4 @@ My research and clinical interests are focused on the delivery and integration o
 
 Part of my learning process as a Ph.D. student has been gathering useful learning resources. I have compiled these resources into learning lists for [Learning R](https://www.kanecarlock.com/learning%20r), [Learning Stats](https://www.kanecarlock.com/learning%20stats), and [Learning Implementation Science](https://www.kanecarlock.com/learning%20implementation%20science). Feel free use these resources for your own learning.
 
-More information about me can be found on my [CV](https://www.kanecarlock.com/cv.html) and on Twitter at [@kanecarlock](https://twitter.com/kanecarlock). I can be contacted at [kanecarlock6507@gmail.com](mailto:kanecarlock6507@gmail.com).
+More information about me can be found on my [CV](https://www.kanecarlock.com/my%cv) and on Twitter at [@kanecarlock](https://twitter.com/kanecarlock). I can be contacted at [kanecarlock6507@gmail.com](mailto:kanecarlock6507@gmail.com).
