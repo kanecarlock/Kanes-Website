@@ -24,7 +24,10 @@ website:
       - icon: Google Scholar
         text: Google Scholar
         href: https://scholar.google.com/citations?user=YwuOtN0AAAAJ&hl=en&oi=ao
-    left: 
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
       - text: "Home"
         file: index.qmd
       - text: "My CV"
