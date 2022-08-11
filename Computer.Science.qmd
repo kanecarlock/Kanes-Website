@@ -1,5 +1,5 @@
 ---
-title: "Computer.Science Resources"
+title: "Computer Science"
 editor: visual
 ---
 
