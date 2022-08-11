@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.kanecarlock.netlify.app/index.html</loc>
-    <lastmod>2022-08-08T02:56:43.946Z</lastmod>
+    <lastmod>2022-08-11T00:50:46.241Z</lastmod>
   </url>
   <url>
     <loc>https://www.kanecarlock.netlify.app/about.html</loc>
@@ -35,5 +35,17 @@
   <url>
     <loc>https://www.kanecarlock.netlify.app/My CV.html</loc>
     <lastmod>2022-08-08T02:56:42.642Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kanecarlock.netlify.app/Academia.html</loc>
+    <lastmod>2022-08-11T00:48:45.777Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kanecarlock.netlify.app/Computer.Science.html</loc>
+    <lastmod>2022-08-11T00:48:36.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kanecarlock.netlify.app/Research.html</loc>
+    <lastmod>2022-08-11T00:48:37.009Z</lastmod>
   </url>
 </urlset>

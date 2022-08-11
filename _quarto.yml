@@ -28,16 +28,26 @@ website:
     style: "floating"
     search: true
     contents:
-      - text: "Home"
-        file: index.qmd
-      - text: "My CV"
-        file: My CV.qmd
-      - text: "Learning R"
-        file: Learning R.qmd
-      - text: "Learning Stats"
-        file: Learning Stats.qmd
-      - text: "Learning Implementation Science"
-        file: Learning Implementation Science.qmd
+      - section: "About Me"
+        contents:
+        - text: "Home"
+          file: index.qmd
+        - text: "My CV"
+          file: My CV.qmd
+      - section: "Resources"
+        contents:
+        - text: "RStats"
+          file: Learning R.qmd
+        - text: "Statistics"
+          file: Learning Stats.qmd
+        - text: "Implementation Science"
+          file: Learning Implementation Science.qmd
+        - text: "Academia"
+          file: Academia.qmd
+        - text: "Research"
+          file: Research.qmd
+        - text: "Computer Science"
+          file: Computer.Science.qmd
   google-analytics: G-Y0NH6JS2X2
 format:
   html:
