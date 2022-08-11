@@ -1,5 +1,5 @@
 ---
-title: "Computer.Science.qmd"
+title: "Computer.Science Resources"
 editor: visual
 ---
 
