@@ -1,5 +1,5 @@
 ---
-title: "About- Kane Carlock"
+title: "About- Kane Carlock M.S.Ed."
 image: twitterpic.jpg
 about: 
   template: trestles
