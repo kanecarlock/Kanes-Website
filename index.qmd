@@ -1,6 +1,6 @@
 ---
 title: "Kane Carlock M.S.Ed."
-image: twitterpic.jpg
+image: headshot.JPG
 about: 
   template: trestles
   image-shape: round
